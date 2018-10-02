@@ -1,4 +1,4 @@
-# bUNQ-Assignment
+# BUNQ-Assignment
 ## Getting Started
 
 THis project is developed using XAMPP environment 
